@@ -69,7 +69,7 @@
 (eval-and-compile
   (defconst uasm2900-instructions
     '("add" "and" "cjp" "cjs" "clr" "cont" "crtn" "flags" "inc" "jmap" "jmp"
-      "jz" "load" "nand" "not"  "nxor" "or" "read" "sla" "sll" "sl.25" "sra"
+      "jz" "load" "nand" "not"  "nxor" "or" "read" "reset" "sla" "sll" "sl.25" "sra"
       "srl" "sr.9" "sub" "xor")
     "uASM2900 instructions for `uasm2900-mode'."))
 

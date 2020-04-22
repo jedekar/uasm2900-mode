@@ -51,7 +51,7 @@
 (eval-and-compile
   (defconst uasm2900-inputs
     '("ev" "ewa" "ewb" "ewh" "ewl" "l1" "l2" "l3" "l4" "l5" "l6"
-      "i" "o" "oey" "r" "w")
+      "i" "o" "oey" "r" "rdm_delay" "w")
     "uASM2900 inputs for `uasm2900-mode'."))
 
 (eval-and-compile
